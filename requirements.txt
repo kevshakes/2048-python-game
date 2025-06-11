@@ -1,0 +1,17 @@
+# Requirements for 2048 Game
+# Note: Tkinter comes built-in with Python, no additional packages needed
+
+# Core requirements (built-in with Python)
+# tkinter - GUI framework (built-in)
+# random - Random number generation (built-in)
+# copy - Deep copy functionality (built-in)
+
+# Optional future enhancements:
+# pygame>=2.0.0  # For sound effects and animations
+# pillow>=8.0.0  # For advanced image handling
+# numpy>=1.20.0  # For optimized array operations
+
+# Development and testing
+# pytest>=6.0.0  # For unit testing
+# black>=21.0.0   # For code formatting
+# flake8>=3.8.0   # For code linting
